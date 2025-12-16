@@ -6,4 +6,6 @@ public class main {
         System.out.println(saludo.generarSaludo("Mundo"));
 
     }
+
+    System.out.println("Versión 1.0.0 lista para producción.");
 }
